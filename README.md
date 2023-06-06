@@ -1,6 +1,6 @@
 # Batch 15 Dailly Session Project
 
-We leart apex using this project .
+We leart apex using this projectt .
 
 # Salesforce DX Project: Next Steps
 

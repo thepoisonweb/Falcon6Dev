@@ -1,0 +1,1 @@
+soru19.accountSoql();
